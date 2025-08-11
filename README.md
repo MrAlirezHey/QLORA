@@ -88,3 +88,8 @@ The script is configured with the following hyperparameters, which can be easily
 5.  **Monitor & Access Results:**
     -   Follow the training progress in real-time through the link provided in your console for your **Weights & Biases dashboard**.
     -   Once training is complete, the fine-tuned LoRA adapters will be available in your private repository on the **Hugging Face Hub**.
+## 🏆 Results
+
+Here is a snapshot of the training and evaluation loss curves from the Weights & Biases dashboard. As you can see, the model effectively learns to minimize the loss over the training epochs.
+
+![Training and Evaluation Loss](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/images/training_loss.png)

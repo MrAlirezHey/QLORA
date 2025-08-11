@@ -92,4 +92,4 @@ The script is configured with the following hyperparameters, which can be easily
 
 Here is a snapshot of the training and evaluation loss curves from the Weights & Biases dashboard. As you can see, the model effectively learns to minimize the loss over the training epochs.
 
-![Training and Evaluation Loss](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/images/training_loss.png)
+![Predict Error](https://github.com/MrAlirezHey/QLORA/blob/main/result.png)

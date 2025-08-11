@@ -94,3 +94,5 @@ Here is a snapshot of the training and evaluation loss curves from the Weights &
 
 ![Predict Error](https://github.com/MrAlirezHey/QLORA/blob/main/result.png)
 ![TRAIN_LOSS](https://github.com/MrAlirezHey/QLORA/blob/main/TRAIN.png)
+##  SYSTEM
+![SYSTEM](https://github.com/MrAlirezHey/QLORA/blob/main/SYSTEM.png)
